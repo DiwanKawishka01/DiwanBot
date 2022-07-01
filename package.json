@@ -1,8 +1,8 @@
 {
-  "name": "aquabot",
+  "name": "diwanbot",
   "version": "1.0.1",
-  "description": "aquabot happy for whatsapp.",
-  "main": "/aquabot/bot.js",
+  "description": "diwanbot happy for whatsapp.",
+  "main": "/diwanbot/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
@@ -22,8 +22,8 @@
     "whatsapp web",
     "whatsapp api"
   ],
-  "author": "sanuwa",
-  "developer": "sanuwa",
+  "author": "diwan",
+  "developer": "diwan",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/sanuwaofficial/AquaBot/issues"
