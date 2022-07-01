@@ -1,11 +1,11 @@
 function successfullMessage(msg) {
-    return "✅ *AQUA*:  ```" + msg + "```"
+    return "✅ *DIWAN*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *AQUA*:  ```" + msg + "```"
+    return "🛑 *DIWAN*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *AQUA*:  ```" + msg + "```"
+    return "⏺️ *DIWAN*:  ```" + msg + "```"
 }
 
 
