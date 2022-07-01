@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sanuwaofficial/AquaBot.git"
+    "url": "git+https://github.com/DiwanKawishka01/DiwanBot.git"
   },
   "keywords": [
     "whatsapp",
@@ -26,9 +26,9 @@
   "developer": "diwan",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/sanuwaofficial/AquaBot/issues"
+    "url": "https://github.com/DiwanKawishka01/DiwanBot/issues"
   },
-  "homepage": "https://github.com/sanuwaofficial/AquaBot",
+  "homepage": "https://github.com/DiwanKawishka01/DiwanBot",
   "dependencies": {
    
     "aquabot": "^1.0.0",
